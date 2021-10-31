@@ -131,4 +131,8 @@ dmypy.json
 
 # New
 .idea/
-
+data_set/
+faultLogs/
+modelSaver/
+alex-eachSeqFI.csv
+alex-seqFI.csv
